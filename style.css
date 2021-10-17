@@ -1,0 +1,11 @@
+.textcontent {
+    background-color: gray;
+    height: 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+#maincontent{
+    background-color: lightblue;
+    height: 400px;
+}
